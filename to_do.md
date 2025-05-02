@@ -8,9 +8,10 @@
 
 ## In Progress
 
-- Feature: Basic I/O 
+~~- Feature: Basic I/O~~ 
     - Read a text file and write to JSON
 
 
     
 ## Done
+- Basic I/O 
