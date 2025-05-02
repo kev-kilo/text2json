@@ -12,5 +12,7 @@
 ## In Progress
 
 - Feature: Open Text File
+    - prompt user for text file location
+    - read file location and open file
 
 ## Done
